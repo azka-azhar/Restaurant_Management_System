@@ -1,0 +1,6 @@
+Garlic Bread,Starters,5.99
+Dynamite Prawn,Starters,7.50
+Hummus,Main Course,15.99
+Pasta Carbonara,Main Course,13.50
+Molten Lava,Desserts,6.99
+nihari,Main Course,45.00

@@ -1,0 +1,14 @@
+=================================
+          RECEIPT
+=================================
+Order Number: 101
+Order Type:   Dine-In
+Customer:     azka
+---------------------------------
+Items:
+  Hummus                    (x3) $47.97
+  Pasta Carbonara           (x2) $27.00
+---------------------------------
+TOTAL: $74.97
+
+Thank you for your order!
